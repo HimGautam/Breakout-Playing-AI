@@ -8,10 +8,10 @@ This project is implementation of [Double Deep Q Learning paper](https://arxiv.o
 Deep Q Learning is the combination of Deep Learning and Reinforcement Learning. In simple words, the Convolutional Neural Network learns to play the atarti game breakout like humans by Trial and Error.
 
 Reinforcement Learning is Learning Optimal Decision Making by Rewards and Punishment.
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/70597091/122637872-92f1ce80-d10e-11eb-9e30-ea353aabc2dc.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![image](https://user-images.githubusercontent.com/70597091/122637872-92f1ce80-d10e-11eb-9e30-ea353aabc2dc.png)
 
 It has different names in the differnet fields.
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;![image](https://user-images.githubusercontent.com/70597091/122637753-fb8c7b80-d10d-11eb-995f-b8d6c67005b5.png)
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; ![image](https://user-images.githubusercontent.com/70597091/122637753-fb8c7b80-d10d-11eb-995f-b8d6c67005b5.png)
 
 # Requirements
 
